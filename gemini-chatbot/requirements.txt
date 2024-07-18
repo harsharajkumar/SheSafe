@@ -1,0 +1,13 @@
+llama-index
+google-generativeai
+llama-index-llms-gemini
+pypdf
+python-dotenv
+IPython
+llama-index-embeddings-gemini
+streamlit
+fastapi
+uvicorn
+watchdog<2.0.0,>=1.0.0
+
+#-e .
